@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Untitled Gantt Project" company="" webLink="http://" view-date="2011-07-17" view-index="0" gantt-divider-location="446" resource-divider-location="301" version="2.0">
+    <description/>
+    <view zooming-state="default:8" id="gantt-chart"/>
+    <view id="resource-table">
+        <field id="0" name="Name" width="55" order="0"/>
+        <field id="1" name="Default role" width="44" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <calendar id="1" name="default">
+                <default-week sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+                <overriden-day-types/>
+                <days/>
+            </calendar>
+        </day-types>
+    </calendars>
+    <tasks color="#8cb6ce">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="2" name="Preparation &amp; Planning" color="#8cb6ce" meeting="false" start="2011-02-01" duration="91" complete="0" priority="1" expand="true">
+            <task id="0" name="Background Research" color="#8cb6ce" meeting="false" start="2011-02-01" duration="3" complete="0" priority="1" expand="true">
+                <depend id="5" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="5" name="Project Statement Writing" color="#8cb6ce" meeting="false" start="2011-02-04" duration="9" complete="0" priority="1" expand="true">
+                <depend id="17" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="17" name="Submission: Project Summary Document" color="#ff0000" meeting="true" start="2011-02-17" duration="1" complete="0" priority="1" expand="true"/>
+            <task id="6" name="Project Website Design" color="#8cb6ce" meeting="false" start="2011-03-21" duration="9" complete="0" priority="1" expand="true">
+                <depend id="18" type="2" difference="3" hardness="Strong"/>
+            </task>
+            <task id="18" name="Submission: Project Website" color="#ff0000" meeting="true" start="2011-04-06" duration="1" complete="0" priority="1" expand="true"/>
+            <task id="7" name="Literature Review" color="#8cb6ce" meeting="false" start="2011-03-01" duration="18" complete="0" priority="1" expand="true">
+                <depend id="8" type="1" difference="0" hardness="Strong"/>
+            </task>
+            <task id="8" name="Background Report Writing" color="#8cb6ce" meeting="false" start="2011-03-01" duration="29" complete="0" priority="1" expand="true">
+                <depend id="21" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="21" name="SPV Review: Background Report" color="#8cb6ce" meeting="false" start="2011-04-11" duration="4" complete="0" priority="1" expand="true">
+                <depend id="20" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="20" name="Submission: Background Report" color="#ff0033" meeting="true" start="2011-04-15" duration="1" complete="0" priority="1" expand="true"/>
+            <task id="9" name="May Exams (19th May, 8th June)" color="#8cb6ce" meeting="false" start="2011-05-19" duration="14" complete="0" priority="1" expand="true">
+                <depend id="12" type="2" difference="0" hardness="Strong"/>
+            </task>
+        </task>
+        <task id="3" name="Development &amp; Testing" color="#8cb6ce" meeting="false" start="2011-02-01" duration="133" complete="0" priority="1" expand="true">
+            <task id="10" name="Identification of Tools" color="#8cb6ce" meeting="false" start="2011-02-01" duration="3" complete="0" priority="1" expand="true">
+                <depend id="11" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="11" name="Learn to use Project Tools" color="#8cb6ce" meeting="false" start="2011-02-04" duration="38" complete="0" priority="1" expand="true"/>
+            <task id="12" name="System Design" color="#8cb6ce" meeting="false" start="2011-06-08" duration="9" complete="0" priority="1" expand="true">
+                <depend id="22" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="22" name="SPV Review: System Design" color="#8cb6ce" meeting="false" start="2011-06-21" duration="4" complete="0" priority="1" expand="true">
+                <depend id="13" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="13" name="Implementation &amp; Testing" color="#8cb6ce" meeting="false" start="2011-06-27" duration="19" complete="0" priority="1" expand="true">
+                <depend id="14" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="14" name="System Evaluation" color="#8cb6ce" meeting="false" start="2011-07-22" duration="9" complete="0" priority="1" expand="true">
+                <depend id="15" type="1" difference="0" hardness="Strong"/>
+                <depend id="23" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="23" name="Milestone: System Evaluation Report" color="#ff0033" meeting="true" start="2011-08-04" duration="1" complete="0" priority="1" expand="true"/>
+        </task>
+        <task id="4" name="Deployment &amp; Reporting" color="#8cb6ce" meeting="false" start="2011-07-22" duration="36" complete="0" priority="1" expand="true">
+            <task id="15" name="Dissertation Report Writing" color="#8cb6ce" meeting="false" start="2011-07-22" duration="20" complete="0" priority="1" expand="true">
+                <depend id="24" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="24" name="SPV Review: Dissertation Report" color="#8cb6ce" meeting="false" start="2011-08-19" duration="10" complete="0" priority="1" expand="true">
+                <depend id="16" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="16" name="Dissertation Review and Submission" color="#8cb6ce" meeting="false" start="2011-09-02" duration="5" complete="0" priority="1" expand="true">
+                <depend id="25" type="2" difference="0" hardness="Strong"/>
+            </task>
+            <task id="25" name="Project Conclusion" color="#ff0033" meeting="true" start="2011-09-09" duration="1" complete="0" priority="1" expand="true"/>
+        </task>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <taskdisplaycolumns>
+        <displaycolumn property-id="tpd3" order="0" width="202"/>
+        <displaycolumn property-id="tpd4" order="1" width="54"/>
+        <displaycolumn property-id="tpd5" order="2" width="71"/>
+    </taskdisplaycolumns>
+    <previous/>
+    <roles roleset-name="Default"/>
+    <roles roleset-name="SoftwareDevelopment"/>
+</project>
