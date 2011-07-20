@@ -1,0 +1,45 @@
+http://www.adobe.com/devnet/flex/articles/introducing-flex45sdk.html
+
+http://www.adobe.com/devnet/flex/articles/web-mobile-reference-apps.html
+
+http://www.slideshare.net/mrinalwadhwa/custom-components-in-flex-4
+
+http://www.slideshare.net/skillsmatter/accessibility-api-in-flex
+
+http://danorlando.com/?p=226
+
+*PERSONAL DEVELOPMENT PLANNING (PDP)
+
+http://www.heacademy.ac.uk/resources/detail/pdp/pdp
+
+
+[How Flex Apps are built]
+Learn how Flex applications are architected
+When you build an application, you should architect it so that it can be easily maintained,
+extended and reused. Instead of having a single monolithic interface, break up the interface 
+into separate views (that are typically separate MXML components); build collections of independent, 
+loosely coupled components that define and broadcast custom events that the rest of the application can 
+then listen for and respond to. You can develop your own methodology for organising your data, logic, views 
+and notifications, or you can use one of the many microarchitectures, including Cairngorm, PureMVC, Parsley, Mate or Swiz.
+
+[//How Flex Apps are built]
+
+
+[LEARNING NEVER ENDS]
+
+Google Book:
+Understanding and teaching reading: an interactive model
+Emerald V. Dechant
+http://books.google.co.uk/books?id=hH2ZrCGVYW8C&pg=PA182&dq=Book:+Learning+is+a+continuous+process;+one+does+not+stop+learning&hl=en&ei=2JAmTt6NB8ms8QOx9JmRCw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCoQ6AEwAA#v=onepage&q=Book%3A%20Learning%20is%20a%20continuous%20process%3B%20one%20does%20not%20stop%20learning&f=false
+
+Google Book:
+Qualifications: introduction to a concept
+Sjur Bergan
+http://books.google.co.uk/books?id=qX3dOhLde-gC&pg=PA190&dq=Book:+Learning+is+a+continuous+process;+one+does+not+stop+learning&hl=en&ei=2JAmTt6NB8ms8QOx9JmRCw&sa=X&oi=book_result&ct=result&resnum=2&ved=0CC8Q6AEwAQ#v=onepage&q=Book%3A%20Learning%20is%20a%20continuous%20process%3B%20one%20does%20not%20stop%20learning&f=false
+
+Google Book:
+Social and economic transformation in the digital era
+Nikolaos Mylonopoulos
+http://books.google.co.uk/books?id=MgqknJDOmLMC&pg=PA275&dq=Book:+Learning+is+a+continuous+process;+one+does+not+stop+learning&hl=en&ei=2JAmTt6NB8ms8QOx9JmRCw&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDkQ6AEwAw#v=onepage&q=Book%3A%20Learning%20is%20a%20continuous%20process%3B%20one%20does%20not%20stop%20learning&f=false
+
+[//LEARNING NEVER ENDS]
