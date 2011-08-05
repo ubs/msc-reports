@@ -1,0 +1,57 @@
+[RUGHANI, FRANKLIN & DIXON, 2003]
+RUGHANI, A., FRANKLIN, C., & DIXON, S. (2003). Personal development plans for dentists: the new approach to continuing professional development. Abingdon, Oxon, Radcliffe Medical Press
+
+
+[Dechant, 1991]
+DECHANT, E. V. (1991). Understanding and teaching reading: an interactive model. Hillsdale, N.J., L. Erlbaum Associates.
+
+
+[Bergan, 2007]
+BERGAN, S. (2007). Qualifications: introduction to a concept.
+
+
+[DOUKIDIS, MYLONOPOULOS & POULOUDI, 2004]
+DOUKIDIS, G. I., MYLONOPOULOS, N., & POULOUDI, N. (2004). Social and economic transformation in the digital era. Hershey, Idea Group Pub
+
+
+[LINDGAARD, BROWN, & BRONSTHER, 2005]
+***See Sources: LINDGAARD G, BROWN A., & BRONSTHER A. (2005). Interface Design Challenges in Virtual  Space
+
+[Adobe, 2011]
+Adobe Flash Media Server Family
+http://www.adobe.com/products/flashmediaserver/
+
+[Adobe, 2011B]
+http://www.adobe.com/devnet/rtmp.html
+
+[Adobe 2009]
+Adobe, The RTMP Specification 1.0
+http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/rtmp/pdf/rtmp_specification_1.0.pdf
+
+[Adobe 2009B] or [Eustace, 2009]
+Ed Eustace
+Eustace, E., 2009. A survey of Inversion of Control frameworks for Flex in Adobe Developer Connection (Flex Developer Center)
+http://www.adobe.com/devnet/flex/articles/ioc_frameworks.html
+
+[Sudgen, 2009]
+Tom Sudgen of Adobe Consulting
+Sudgen, T., 2009. The Trend Towards Inversion-of-Control Frameworks in Flex
+http://blogs.adobe.com/tomsugden/2009/07/the_trend_towards_inversionofc.html
+
+
+[Red5 Team]
+http://code.google.com/p/red5/
+
+[Berkovitz, 2006]
+Berkovitz, J., 2006. Flex Best Practices: Applying Design Patterns and Architecture
+http://joeberkovitz.com/blog/reviewtube/
+
+
+[Swiz, 2011]
+[S] Swiz Framework
+http://swizframework.org/
+
+[Orlando, 2009]
+Dan Orlando, Author, RIA Architect
+Enterprise Flex and the Swiz Framework Architecture
+http://danorlando.com/?tag=swiz-framework
