@@ -1,0 +1,261 @@
+Hyperlink tooltip:
+Click to go to this section
+
+
+>>[Dechant, 1991]
+DECHANT, E. V. (1991). Understanding and teaching reading: an interactive model. Hillsdale, N.J., L. Erlbaum Associates.
+
+
+>>[Bergan, 2007]
+BERGAN, S. (2007). Qualifications: introduction to a concept. Strasbourg : Council of Europe Publishing
+
+
+>>[DOUKIDIS, MYLONOPOULOS & POULOUDI, 2004]
+DOUKIDIS, G. I., MYLONOPOULOS, N., & POULOUDI, N. (2004). Social and economic transformation in the digital era. Hershey, Idea Group Pub
+
+
+>>[LINDGAARD, BROWN, & BRONSTHER, 2005]
+LINDGAARD G, BROWN A., & BRONSTHER A., 2005. Interface Design Challenges in Virtual Space. In: D. R. F. TAYLOR, ed. 2005. Cybercartography: theory and practice (Modern Cartography Series). Amsterdam: Elsevier Science. pp. 211-229
+
+
+>>[Haase, 2010]
+Haase, C. (2010). Flex 4 fun. Mountain View, Calif, Artima.
+
+>>[Adobe, 2011][Already in list of References]
+What is Flex?
+http://www.adobe.com/products/flex/
+
+
+>>[Hassoun & Heider, 2010] OR [Adobe 2010] (first chosen)
+(Jun Heider and David Hassoun) Peer-assisted networking using RTMFP groups in Flash Player 10.1
+http://www.adobe.com/devnet/flashmediaserver/articles/p2p_rtmfp_groups.html [Accessed 20 August, 2011)
+
+Hassoun, D., & Heider, J., Peer-assisted networking using RTMFP groups in Flash Player 10.1. [online]. Available at: <http://www.adobe.com/devnet/flashmediaserver/articles/p2p_rtmfp_groups.html>. [Accessed 20 August, 2011]
+
+
+[Adobe PET, 2011] (Like NOT used)
+What is Flex?
+The Adobe Platform Evangelism Team (PET)
+http://flex.org/what-is-flex/
+
+
+>>[Adobe, 2011b]
+Adobe Flash Media Server Family
+http://www.adobe.com/products/flashmediaserver/
+
+>>[Adobe, 2011c]
+Real-Time Messaging Protocol (RTMP) specification
+http://www.adobe.com/devnet/rtmp.html
+
+>>[Adobe, 2011d]
+Flex framework [Accessed 30-July-2011]
+http://www.adobe.com/products/flex/flex_framework/
+
+>>[Adobe 2011e]
+Flash Media Server 4 FAQ for Real-Time Media Flow Protocol
+http://www.adobe.com/products/flashmediaserver/rtmfp_faq/ [Accessed 20 August 2011]
+
+>>[Adobe 2009]
+Adobe, The RTMP Specification 1.0
+http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/rtmp/pdf/rtmp_specification_1.0.pdf
+
+
+>>[Adobe 2009b] or [Eustace, 2009]
+Ed Eustace
+Eustace, E., 2009. A survey of Inversion of Control frameworks for Flex in Adobe Developer Connection (Flex Developer Center)
+http://www.adobe.com/devnet/flex/articles/ioc_frameworks.html
+
+
+>>[Adobe 2009c]
+Flash Media Server 3.5 - Core server architecture
+http://help.adobe.com/en_US/FlashMediaServer/3.5_TechOverview/WS5b3ccc516d4fbf351e63e3d119ed944a1a-7ffa.html
+[Accessed 30 July, 2011]
+
+
+
+>>[ASDocs4, 2011]
+Adobe Inc., ActionScript Documentation for Adobe Flex 4
+Available at <http://help.adobe.com/en_US/Flex/4.0/UsingSDK/index.html> [Accessed everyday]
+
+
+>>[Sudgen, 2009]
+Tom Sudgen of Adobe Consulting
+Sudgen, T., 2009. The Trend Towards Inversion-of-Control Frameworks in Flex
+http://blogs.adobe.com/tomsugden/2009/07/the_trend_towards_inversionofc.html
+
+
+>>[Red5 Team]
+http://code.google.com/p/red5/
+
+>>[Red5, 2010]
+Red5 Teams Releases 1.0 RC Build
+http://www.red5.org/2010/12/31/release_1_0_build/ [Accessed 30 July, 2011]
+
+>>[Berkovitz, 2006]
+Berkovitz, J., 2006. Flex Best Practices: Applying Design Patterns and Architecture
+http://joeberkovitz.com/blog/reviewtube/
+http://joeberkovitz.com/max2006/RI304W_FlexBestPractices_JoeBerkovitz.ppt
+
+
+>>[Swiz, 2011]
+[S] Swiz Framework: The brutally simple micro-architecture for Enterprise ActionScript development
+http://swizframework.org/
+
+>>[Orlando, 2009]
+Dan Orlando, Author, RIA Architect
+Enterprise Flex and the Swiz Framework Architecture OR
+Second Generation Micro-architectures, Part 1: The Swiz Framework
+http://danorlando.com/?tag=swiz-framework
+
+>>[Krumm, Davies, & Narayanaswami, 2008]
+Krumm, J., Davies, N., Narayanaswami, C., 2008, User Generated Content in PERVASIVE computing 
+IEEE Pervasive Computing, 7 (4), 10-11
+(Published by the IEEE CS 1536-1268/08/$25.00 October–December 2008 IEEE)
+Krumm, J., Davies, N., Narayanaswami, C., 2008, User Generated Content. IEEE Pervasive computing, 7 (4) , pp.10-11
+
+
+>>[Clever, Kirchner, Schray, & Schulte, 2009]
+Clever, N., Kirchner, A., Schray, D. & Schulte, M.  (2009). User Generated Content. Essay, 
+Institut für Wirtschaftsinformatik. Westfälische Wilhelms-universität. Münster.
+
+
+>>[Wunsch-Vincent & Vickery, 2007]
+Wunsch-Vincent, S.; Vickery,G. (2007) PARTICIPATIVE WEB: USER-CREATED CONTENT.
+http://www.oecd.org/dataoecd/57/14/38393115.pdf.
+http://www.oecd.org/dataoecd/57/14/38393115.pdf. [Accessed 07 July 2011]
+
+WUNSCH-VINCENT, S., & VICKERY, G., 2007. Participative Web and user-created content: Web 2.0, wikis and social networking. Paris: Organisation for Economic Co-operation and Development.
+
+
+>>[Hart, 2009]
+Jane Hart, 
+Hart, J., (2009). Building a social learning environment - for free or at low cost
+Part 1: Using free, public social media tools
+Inside Learning Technologies Magazine, October 2009
+
+
+>>[Hart, 2011]
+Top 100 Tools for Learning 2011
+http://c4lpt.co.uk/top-tools/top-100-tools-for-learning-2011/ [Accessed: 10 July, 2011]
+
+
+[Kadle, 2010]
+Kadle, A., 2010. Elements For Constructing Social Learning Environments
+http://www.upsidelearning.com/blog/index.php/2010/03/10/elements-for-constructing-social-learning-environments/
+
+
+
+>>[Papert, 1986]
+Papert, S., 1986. Constructionism: A New Opportunity for Elementary Science Education. Massachussetts Institute of Technology, Media Laboratory, Epistemology and Learning Group
+
+>>[Papert & Harel, 1991]
+Constructionism (Ablex Publishing Corporation, 1991). See in worldcat
+PAPERT, S, & HAREL, I., 1991. Constructionism: research reports and essays, 1985-1990. Norwood, N.J., Ablex Pub. Corp.
+
+
+>>[Cottrell, 2010]
+COTTRELL, S. (2010). Skills for success: the personal development planning handbook (second edition). Basingstoke, Palgrave Macmillan.
+
+
+>>[NCIHE, 1997]
+NCIHE (National Committee of Inquiry into Higher Education), 1997. Higher Education in the Learning Society, (the Dearing Report), London, HMSO
+
+
+>>[THEA, 2011]
+THEA (The Higher Education Academy), 2011. PDP - Personal Development Planning
+http://www.heacademy.ac.uk/resources/detail/pdp/pdp [Accessed 25 July, 2011]
+
+>>[QAA, 2001]
+QAA (Quality Assurance Agency for Higher Education), 2001. Guidelines for HE Progress Files
+Available at <http://www.qaa.ac.uk/Publications/InformationAndGuidance/Documents/progfile2001.pdf> [Accessed 25 July, 2011]
+
+
+>>[Quinton & Smallbone, 2008]
+QUINTON, S., & SMALLBONE, T. (2008). PDP implementation at English universities: what are the issues? Journal of Further and Higher Education. 32, 99-109.
+
+
+>>[Gosling, 2003]
+GOSLING, D. (2003). Personal development planning. [Birmingham], Staff and Educational Development Association.
+
+
+>>[Ward, 2001]
+WARD, R. (2001). Personal development planning: institutional case studies : University of Wales Bangor et al. York, LTSN.
+
+
+>>[O’Connell, 2001]
+O’Connell, C. (2001). Case Study F - The University of Manchester, Moving Personal Development Planning from the Periphery to the Mainstream in Personal development planning: institutional case studies : University of Wales Bangor et al. York, LTSN.
+
+
+>>[Rughani, Franklin, & Dixon, 2003]
+Rughani, A., Franklin, C., & Dixon, s. (2003). Personal development plans for dentists: the new approach to continuing professional development. Abingdon, Oxon, Radcliffe Medical Press.
+
+
+>>[Jackson, 2001]
+Jackson, N. 2001. Personal Development Planning: What does it mean? PDP Working Paper 1 ver 4. Learning and Teaching Support Network (LTSN) Generic Centre. Available at <http://www.heacademy.ac.uk/resources/detail/resource_database/id65_Personal_Development_Planning_What_does_it_mean> [Accessed 01 August 2011]
+
+
+>>[LLC-UoM, 2010]
+Languages, Linguistics and Cultures, University of Manchester (LLC-UoM). 2010. Personal Development Plan (PDP)
+Available at <http://www.llc.manchester.ac.uk/intranet/ug/pdp/> [Accessed 15th July, 2011]
+
+>>[AskMeFlash, 2009]
+AskMeFlash, 2009, 
+Comparison Wowza vs FMS vs Red5
+http://askmeflash.com/article/10/comparison-wowza-vs-fms-vs-red5 [Accessed 30 July, 2011]
+
+
+>>[Larman, 2005]
+Larman, C. (2005). Applying UML and patterns: an introduction to object-oriented analysis and design and iterative development. Upper Saddle River, N.J., Prentice Hall PTR, c2005.
+
+
+>>[Gamma Et al, 1995]
+Gamma, E., Johnson, R., Vlissides, J., Helm R. (1995). Design patterns: elements of reusable object-oriented software. Reading, Mass, Addison-Wesley.
+Gamma, E., Johnson, R., Vlissides, J., Helm R.
+Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm 
+Check Havard Refs for how to do it full at the refs section
+
+
+>>[van Harmelen, 2011b]
+van Harmelen, M., 2011b. Discussion on the design of the PDP Component. [conversation] (Personal
+communication, 21 July 2011).
+
+
+>>[Ethics-CS-UoM, 2010]
+Ethics-CS-UoM, 2010. Welcome to Computer Science Ethics - Keep Calm 
+<http://ethics.cs.manchester.ac.uk/> [Accessed 17th August 2011]
+
+
+>>[Brooke, 1996]
+Brooke, J. (1996). "SUS: a "quick and dirty" usability scale". In P. W. Jordan, B. Thomas, B. A. Weerdmeester, & A. L. McClelland. Usability Evaluation in Industry. London: Taylor and Francis.
+(Also see http://hell.meiert.org/core/pdf/sus.pdf)
+
+
+>>[Tullis & Stetson, 2004]
+Tullis, T.S., and Stetson, J.N. A Comparison of Questionnaires for Assessing Website Usability, Usability Professional Association Conference, 2004.
+
+>>[Bangor, Kortum & Miller, 2009]
+Bangor, A., Kortum, P., and Miller, J. (2009). "Determining What Individual SUS Scores Mean: Adding an Adjective Rating Scale". Journal of Usability Studies, 4(3): 114-123
+
+
+(Also see http://www.upassoc.org/upa_publications/jus/2009may/bangor2.html)
+
+
+[NOT USED YET]
+Bangor, Aaron, Kortum, Philip T. and Miller, James T. (2008). "An Empirical Evaluation of the System Usability Scale". International Journal of Human-Computer Interaction 24 (6): 574 — 594.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
